@@ -1,0 +1,6 @@
+c:\users\programacion\documents\visual studio 2013\Projects\CA2\CA2\bin\Debug\CA2.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\CA2\CA2\bin\Debug\CA2.exe
+c:\users\programacion\documents\visual studio 2013\Projects\CA2\CA2\bin\Debug\CA2.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\CA2\CA2\obj\Debug\CA2.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\CA2\CA2\obj\Debug\CA2.exe
+c:\users\programacion\documents\visual studio 2013\Projects\CA2\CA2\obj\Debug\CA2.pdb
